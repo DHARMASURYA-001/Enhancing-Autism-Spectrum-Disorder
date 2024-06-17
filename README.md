@@ -1,6 +1,6 @@
 # Enhancing Autism Spectrum Disorder Diagnosis Through Deep Learning Techniques
 
-**Author: Dharma Surya R**
+**Author: Dharma Surya R,**
 **Institution: Vellore Institute of Technology, Vellore, India**
 
 ## Abstract
